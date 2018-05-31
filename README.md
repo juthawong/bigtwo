@@ -1,2 +1,2 @@
-# bigtwo
+# Big Two (Chinese Poker)
 A web app of a popular Chinese game (also known as Chinese poker).
