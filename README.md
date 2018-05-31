@@ -1,2 +1,2 @@
 # Big Two (Chinese Poker)
-A web app of a popular Chinese game (also known as Chinese poker).
+A web app of a card game (also known as Chinese Poker) of Chinese origin.
